@@ -1,0 +1,30 @@
+                                                                                                                                                                                                          
+                                                                                                                                     dddddddd                                                     dddddddd
+               AAA                              LLLLLLLLLLL              iiii                                       iiii             d::::::d      GGGGGGGGGGGGG               lllllll            d::::::d
+              A:::A                             L:::::::::L             i::::i                                     i::::i            d::::::d   GGG::::::::::::G               l:::::l            d::::::d
+             A:::::A                            L:::::::::L              iiii                                       iiii             d::::::d GG:::::::::::::::G               l:::::l            d::::::d
+            A:::::::A                           LL:::::::LL                                                                          d:::::d G:::::GGGGGGGG::::G               l:::::l            d:::::d 
+           A:::::::::A          zzzzzzzzzzzzzzzzz L:::::L              iiiiiii   qqqqqqqqq   qqqquuuuuu    uuuuuu iiiiiii    ddddddddd:::::dG:::::G       GGGGGG  ooooooooooo   l::::l    ddddddddd:::::d 
+          A:::::A:::::A         z:::::::::::::::z L:::::L              i:::::i  q:::::::::qqq::::u::::u    u::::u i:::::i  dd::::::::::::::G:::::G              oo:::::::::::oo l::::l  dd::::::::::::::d 
+         A:::::A A:::::A        z::::::::::::::z  L:::::L               i::::i q:::::::::::::::::u::::u    u::::u  i::::i d::::::::::::::::G:::::G             o:::::::::::::::ol::::l d::::::::::::::::d 
+        A:::::A   A:::::A       zzzzzzzz::::::z   L:::::L               i::::iq::::::qqqqq::::::qu::::u    u::::u  i::::id:::::::ddddd:::::G:::::G    GGGGGGGGGo:::::ooooo:::::ol::::ld:::::::ddddd:::::d 
+       A:::::A     A:::::A            z::::::z    L:::::L               i::::iq:::::q     q:::::qu::::u    u::::u  i::::id::::::d    d:::::G:::::G    G::::::::o::::o     o::::ol::::ld::::::d    d:::::d 
+      A:::::AAAAAAAAA:::::A          z::::::z     L:::::L               i::::iq:::::q     q:::::qu::::u    u::::u  i::::id:::::d     d:::::G:::::G    GGGGG::::o::::o     o::::ol::::ld:::::d     d:::::d 
+     A:::::::::::::::::::::A        z::::::z      L:::::L               i::::iq:::::q     q:::::qu::::u    u::::u  i::::id:::::d     d:::::G:::::G        G::::o::::o     o::::ol::::ld:::::d     d:::::d 
+    A:::::AAAAAAAAAAAAA:::::A      z::::::z       L:::::L         LLLLLLi::::iq::::::q    q:::::qu:::::uuuu:::::u  i::::id:::::d     d:::::dG:::::G       G::::o::::o     o::::ol::::ld:::::d     d:::::d 
+   A:::::A             A:::::A    z::::::zzzzzzzLL:::::::LLLLLLLLL:::::i::::::q:::::::qqqqq:::::qu:::::::::::::::ui::::::d::::::ddddd::::::ddG:::::GGGGGGGG::::o:::::ooooo:::::l::::::d::::::ddddd::::::dd
+  A:::::A               A:::::A  z::::::::::::::L::::::::::::::::::::::i::::::iq::::::::::::::::q u:::::::::::::::i::::::id:::::::::::::::::d GG:::::::::::::::o:::::::::::::::l::::::ld:::::::::::::::::d
+ A:::::A                 A:::::Az:::::::::::::::L::::::::::::::::::::::i::::::i qq::::::::::::::q  uu::::::::uu:::i::::::i d:::::::::ddd::::d   GGG::::::GGG:::Goo:::::::::::ool::::::l d:::::::::ddd::::d
+AAAAAAA                   AAAAAAzzzzzzzzzzzzzzzzLLLLLLLLLLLLLLLLLLLLLLLiiiiiiii   qqqqqqqq::::::q    uuuuuuuu  uuuiiiiiiii  ddddddddd   ddddd      GGGGGG   GGGG  ooooooooooo  llllllll  ddddddddd   ddddd
+                                                                                          q:::::q                                                                                                         
+                                                                                          q:::::q                                                                                                         
+                                                                                         q:::::::q                                                                                                        
+                                                                                         q:::::::q                                                                                                        
+                                                                                         q:::::::q                                                                                                        
+                                                                                         qqqqqqqqq                                                                                                        
+
+AzLiquidGold - A credential stuffing platform for attacking Azure
+Author: Liam Follin (https://github.com/Gr4y-r0se)
+
+Usage: ruby AzLiquidGold.rb [options] [-t target.com | --target=target.com]
+
