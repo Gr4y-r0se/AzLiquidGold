@@ -13,7 +13,6 @@ banner File.read('modules/banner.txt')
   opt :help, "Print this help message", :default => false
   opt :target, "Specify the target domain", :type => String
   opt :stop_bruteforce, "Only performs Valid Username Enumeration", :default => false
-#  opt :red_team, "Uses the credentials to open SharePoint, Outlook and Azure (if possible)", :default => false
   opt :breach, "Outputs the VUE results as well as the credentail stuffing results", :default => false
   opt :stop_save, "Doesn't save your results", :default => false
   opt :credentials, "Specify the credentials for DeHashed (these will be saved for future use)", :type => String
