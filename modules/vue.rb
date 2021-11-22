@@ -10,7 +10,7 @@ def vue(array_)
 			req.body = {Username: "#{i.split(':',2)[0]}"}.to_json
 		end
 		parsed = JSON.parse(resp.body)
-		if parsed["IfExistsResult"] === 0 then 
+		if [0,5,6].include? parsed["IfExistsResult"] then
 			 valid_accounts.append(i)
 		end
 	end
